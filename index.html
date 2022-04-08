@@ -80,7 +80,12 @@
               "label": "Email",
               "value": "john.doe@salesforce.com",
               "displayToAgent": true
-            }];
+            },{
+              "label":"notClient",
+              "value":'200',
+              "transcriptFields":[ "Notclient__c" ],
+              "displayToAgent":true
+            };
             embedded_svc.settings.language =  'en-US';
      
             //embedded_svc.settings.fallbackRouting = []; //Uma matriz de IDs de botão, IDs de usuário ou userId_buttonId

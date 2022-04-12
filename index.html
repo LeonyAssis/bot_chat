@@ -83,12 +83,12 @@
 //               "value": "john.doe@salesforce.com",
 //               "displayToAgent": true
 //             },
-                {
-               "label":"notClient",
-               "value":false,
-               "transcriptFields":[ "Notclient__c" ],
-               "displayToAgent":true
-             }
+//                {
+//               "label":"notClient",
+//               "value":false,
+//               "transcriptFields":[ "Notclient__c" ],
+//               "displayToAgent":true
+//             }
              ];
             embedded_svc.settings.language =  'en-US';
      
@@ -123,7 +123,7 @@
             };
             document.body.appendChild(s);
         } else {
-            initESW('https://service.force.com');
+            initESW('https://service.force.com', token);
         }
     </script>  
 </body>

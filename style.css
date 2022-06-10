@@ -12,14 +12,9 @@
     max-width: none;
 }
 
-/*
-.embeddedServiceHelpButton .helpButton .uiButton {
-    font-family: "Arial", sans-serif;           
+.embeddedServiceHelpButton .embeddedServiceIcon::before {
+    color: #F37021;
 }
-.embeddedServiceHelpButton .helpButton .uiButton:focus {
-    outline: 1px solid #1d1d1d;          
-}
-*/
 
 .helpButtonEnabled:focus .helpButtonLabel {
     text-decoration: none;

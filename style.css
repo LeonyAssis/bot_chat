@@ -27,6 +27,11 @@
     margin-top: -5px;
 }
 
+.embeddedServiceSidebarFormField .uiInput .uiLabel-left {
+    color: #677183;
+    margin-left: 16px;
+}
+
 .helpButtonEnabled:focus .helpButtonLabel {
     text-decoration: none;
 }

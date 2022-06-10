@@ -17,6 +17,12 @@
     height: 160px;
 }
 
+.embeddedServiceSidebarFormField .slds-style-inputtext,
+.embeddedServiceSidebarFormField .slds-style-select {
+    border: 1px solid #D8E0E8;
+    border-radius: 8px;
+}
+
 .helpButtonEnabled:focus .helpButtonLabel {
     text-decoration: none;
 }

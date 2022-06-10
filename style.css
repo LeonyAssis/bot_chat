@@ -5,6 +5,10 @@
     font-size: initial;
 }
 
+.helpButtonEnabled:focus .helpButtonLabel {
+    text-decoration: none;
+}
+
 .embeddedServiceHelpButton .uiButton .helpButtonLabel .message {
     font-size: 12px;
     text-decoration: none;

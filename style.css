@@ -74,6 +74,7 @@
 .embeddedServiceHelpButton .uiButton .helpButtonLabel .message,
 .embeddedServiceSidebarMinimizedDefaultUI .minimizedText>.message {
     font-size: 12px;
+    font-family: 'Red Hat Display';
     text-decoration: none;
     color: #ffffff;
 }

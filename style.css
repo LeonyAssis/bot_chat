@@ -36,6 +36,12 @@
     text-decoration: none;
 }
 
+.embeddedServiceSidebarMinimizedDefaultUI.helpButton {
+    border: none;
+    width: 400px;
+    max-width: initial;
+}
+
 .embeddedServiceHelpButton .uiButton .helpButtonLabel {
     justify-content: inherit;
 }

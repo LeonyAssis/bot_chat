@@ -3,7 +3,17 @@
     font-weight: 500;
     width: 420px;
     font-size: initial;
+    background-color: #1d1d1d;
 }
+
+/*
+.embeddedServiceHelpButton .helpButton .uiButton {
+    font-family: "Arial", sans-serif;           
+}
+.embeddedServiceHelpButton .helpButton .uiButton:focus {
+    outline: 1px solid #1d1d1d;          
+}
+*/
 
 .helpButtonEnabled:focus .helpButtonLabel {
     text-decoration: none;
@@ -28,13 +38,8 @@
     border: none;
 }
 
-.embeddedServiceHelpButton .helpButton .uiButton {
-    background-color: #1d1d1d;
-    font-family: "Arial", sans-serif;           
-}
-.embeddedServiceHelpButton .helpButton .uiButton:focus {
-    outline: 1px solid #1d1d1d;          
-}
+
+
 
 .embeddedServiceLiveAgentStateChatItem .chatContent ul.rich-menu-items li {
     border-color: #0ba0c2; 

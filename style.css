@@ -23,6 +23,10 @@
     border-radius: 8px;
 }
 
+.embeddedServiceSidebarForm .fieldList {
+    margin-top: -5px;
+}
+
 .helpButtonEnabled:focus .helpButtonLabel {
     text-decoration: none;
 }

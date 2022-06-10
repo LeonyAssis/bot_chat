@@ -4,6 +4,7 @@
     width: 420px;
     font-size: initial;
     background-color: #1d1d1d;
+    max-width: none;
 }
 
 /*

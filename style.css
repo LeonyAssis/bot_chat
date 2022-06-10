@@ -40,13 +40,19 @@
     border: none;
     width: 400px;
     max-width: initial;
+    background-color: #677183;
+}
+
+.embeddedServiceSidebarMinimizedDefaultUI.helpButton .messageContent {
+    justify-content: flex-start;
 }
 
 .embeddedServiceHelpButton .uiButton .helpButtonLabel {
     justify-content: inherit;
 }
 
-.embeddedServiceHelpButton .uiButton .helpButtonLabel .message {
+.embeddedServiceHelpButton .uiButton .helpButtonLabel .message,
+.embeddedServiceSidebarMinimizedDefaultUI .minimizedText>.message {
     font-size: 12px;
     text-decoration: none;
     color: #ffffff;

@@ -17,10 +17,6 @@
     height: 160px;
 }
 
-.embeddedServiceHelpButton .embeddedServiceIcon::before {
-    color: #F37021;
-}
-
 .helpButtonEnabled:focus .helpButtonLabel {
     text-decoration: none;
 }

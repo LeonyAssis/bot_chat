@@ -8,7 +8,7 @@
     width: 400px;
     height: 56px;
     font-size: initial;
-    background-color: #1d1d1d;
+    background-color: #677183;
     max-width: none;
 }
 
@@ -32,7 +32,7 @@
 .embeddedServiceHelpButton .uiButton .helpButtonLabel .message {
     font-size: 12px;
     text-decoration: none;
-    color: #A4ACBC;
+    color: #ffffff;
 }
 
 .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.plaintextContent {

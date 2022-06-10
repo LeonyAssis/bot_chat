@@ -1,0 +1,75 @@
+ .embeddedServiceHelpButton .uiButton .helpButtonLabel .message {
+            font-size: 12px;
+            text-decoration: none;
+            color: #A4ACBC;
+        }
+        
+        .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.plaintextContent {
+            font-size: 14px;
+            font-weight: 500;
+            color: #586476;
+        }
+        
+        .embeddedServiceLiveAgentStateChatItem.chatMessage button {
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .embeddedServiceLiveAgentStateChat .messageArea:focus,
+        .embeddedServiceLiveAgentStateChat .messageArea:active {
+            border: none;
+        }
+        
+        .embeddedServiceHelpButton .helpButton .uiButton {
+            background-color: #1d1d1d;
+            font-family: "Arial", sans-serif;           
+        }
+        .embeddedServiceHelpButton .helpButton .uiButton:focus {
+            outline: 1px solid #1d1d1d;          
+        }
+        
+        .embeddedServiceLiveAgentStateChatItem .chatContent ul.rich-menu-items li {
+            border-color: #0ba0c2; 
+        }
+        
+        .embeddedServiceLiveAgentStateChatItem .chatContent ul.rich-menu-items li:first-of-type {
+            border: 1px solid #0ba0c2; 
+        }
+        
+        .embeddedServiceLiveAgentStateChatItem.chatMessage button {
+            color: #0ba0c2;
+        }
+        
+        .embeddedServiceLiveAgentStateChatMenuMessage .rich-menu {   
+            width: 280px;
+        }
+        
+        
+        .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.agent.plaintextContent {           
+            background: transparent; 
+            color: #586476;
+        }        
+         
+        .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.plaintextContent {            
+             max-width: 78%;           
+        }   
+        
+        .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.chasitor.plaintextContent {          
+            background: #F6F8FC;
+            color: #586476;
+        }
+        
+        .embeddedServiceLiveAgentStateChatItem.agent .agentName {          
+            color: #CD4C00;
+        }
+        
+        .embeddedServiceLiveAgentStateChatItem.agent .timeContent {          
+            color: #677183;
+        }
+        
+        .embeddedServiceLiveAgentStateChatItem .isLightningOutContext .avatar {           
+            width: 36px;
+            height: 36px;            
+            margin: 0 14px 16px 0;
+        }
+        

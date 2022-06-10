@@ -7,7 +7,6 @@
     font-weight: 500;
     width: 400px;
     height: 56px;
-    font-size: initial;
     background-color: #677183;
     max-width: none;
 }
@@ -37,8 +36,11 @@
 }
 
 .embeddedServiceSidebarMinimizedDefaultUI.helpButton {
+    font-weight: 500;
+    font-size: 14px;
     border: none;
     width: 400px;
+    height: 56px;
     max-width: initial;
     background-color: #677183;
 }

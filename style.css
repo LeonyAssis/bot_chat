@@ -12,6 +12,11 @@
     max-width: none;
 }
 
+.embeddedServiceSidebarForm .backgroundImg {
+    background-size: initial;
+    height: 160px;
+}
+
 .embeddedServiceHelpButton .embeddedServiceIcon::before {
     color: #F37021;
 }
@@ -34,6 +39,10 @@
     font-size: 14px;
     font-weight: 500;
     color: #586476;
+}
+
+.embeddedServiceSidebarForm.formContent {
+    overflow-y: hidden;
 }
 
 

@@ -49,6 +49,12 @@
     background-color: #677183;
 }
 
+.embeddedServiceSidebarMinimizedDefaultUI.minimizedContainer:focus,
+.embeddedServiceSidebarMinimizedDefaultUI.minimizedContainer:hover {
+    background-color: #677183;
+    text-decoration: none;
+}
+
 .embeddedServiceSidebarMinimizedDefaultUI.helpButton .messageContent {
     justify-content: flex-start;
 }

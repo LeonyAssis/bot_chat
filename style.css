@@ -133,6 +133,7 @@
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;
+        padding-top: 16px;
     }
 }
         

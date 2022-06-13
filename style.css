@@ -76,19 +76,10 @@
     color: #586476;
 }
 
-.embeddedServiceSidebarForm.formContent {
-    overflow-y: hidden;
-}
-
-
-
 .embeddedServiceLiveAgentStateChat .messageArea:focus,
 .embeddedServiceLiveAgentStateChat .messageArea:active {
     border: none;
 }
-
-
-
 
 .embeddedServiceLiveAgentStateChatItem .chatContent ul.rich-menu-items li {
     border-color: #0ba0c2; 
@@ -102,14 +93,10 @@
     color: #0ba0c2;
 }
 
-
-
-
 .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.agent.plaintextContent {           
     background: transparent; 
     color: #586476;
-}        
-    
+}   
 
 .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.chasitor.plaintextContent {          
     background: #F6F8FC;
@@ -137,6 +124,10 @@
 }
         
 @media only screen and (min-width: 48em) {
+    .embeddedServiceSidebarForm.formContent {
+        overflow-y: hidden;
+    }
+    
     .embeddedServiceHelpButton .helpButton {
         height: 56px;
     }

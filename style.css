@@ -60,10 +60,6 @@
     text-decoration: none;
 }
 
-[embeddedService-chatHeader_chatHeader-host] {
-    height: 56px;
-}
-
 .embeddedServiceSidebar.layout-docked .dockableContainer {
     border-radius: 24px 24px 0 0;
 }
@@ -160,6 +156,10 @@
     .embeddedServiceSidebarMinimizedDefaultUI.helpButton {
         max-width: none;
         width: 400px;
+        height: 56px;
+    }
+
+    [embeddedService-chatHeader_chatHeader-host] {
         height: 56px;
     }
 }

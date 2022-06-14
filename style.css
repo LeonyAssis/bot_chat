@@ -131,6 +131,11 @@
     background-color: #fff;
 }
 
+.embeddedServiceLiveAgentStateChatItem.agent .nameAndTimeDotDivider {
+    background-color: #D8E0E8;
+    margin: 5px 5px 0 5px;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

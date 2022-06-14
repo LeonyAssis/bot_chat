@@ -130,6 +130,7 @@
 
     .embeddedServiceHelpButton .helpButton {
         height: 56px;
+        bottom: 42px;
     }
 
     .embeddedServiceHelpButton .helpButton .uiButton,

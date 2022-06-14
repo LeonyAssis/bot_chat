@@ -117,6 +117,15 @@
     margin: 0 14px 16px 0;
 }
 
+.chatMessage[c-chatMessage_chatMessage] {
+    font-weight: 500;
+}
+
+.chasitor[c-chatMessage_chatMessage] {
+    color: #586476;
+    background: #F6F8FC;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

@@ -179,7 +179,8 @@
         overflow-y: hidden;
     }
 
-    .embeddedServiceHelpButton .helpButton {
+    .embeddedServiceHelpButton .helpButton,
+    .embeddedServiceSidebarMinimizedDefaultUI {
         height: 56px;
     }
 

@@ -122,6 +122,13 @@
         margin-top: 0px;
     }
 }
+
+@media only screen and (max-width: 48em) {
+    .embeddedServiceHelpButton .helpButton,
+    .embeddedServiceSidebarMinimizedDefaultUI.helpButton {
+        bottom: 42px;
+    }
+}
         
 @media only screen and (min-width: 48em) {
     .embeddedServiceSidebarForm.formContent {
@@ -130,11 +137,6 @@
 
     .embeddedServiceHelpButton .helpButton {
         height: 56px;
-    }
-
-    .embeddedServiceHelpButton .helpButton,
-    .embeddedServiceSidebarMinimizedDefaultUI.helpButton {
-        bottom: 42px;
     }
 
     .embeddedServiceHelpButton .helpButton .uiButton,

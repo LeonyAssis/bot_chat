@@ -150,6 +150,10 @@
     border-radius: 16px 16px 0px 0px;
 }
 
+.embeddedServiceLiveAgentStateChatInputFooter .chasitorControls .uiInput {
+    border: 1px solid #D8E0E8;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

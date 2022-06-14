@@ -126,6 +126,11 @@
     background: #F6F8FC;
 }
 
+.agent.plainText[c-chatMessage_chatMessage] {
+    color: #586476;
+    background-color: #fff;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

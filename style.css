@@ -136,6 +136,14 @@
     margin: 5px 5px 0 5px;
 }
 
+.embeddedServiceLiveAgentStateChatMenuMessage .chatContent .rich-menu-item:hover {
+    color: #0ba0c2;
+}
+
+.embeddedServiceLiveAgentStateChatItem.agent .nameAndTimeContent {
+    font-weight: 500;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

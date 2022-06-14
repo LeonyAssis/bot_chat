@@ -166,6 +166,11 @@
     color: #586476;
 }
 
+.embeddedServiceLiveAgentStateChatInputFooter .chasitorControls {
+    height: calc(100% - 32px);
+    margin: 16px;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

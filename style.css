@@ -157,6 +157,10 @@
     border: 1px solid #D8E0E8;
 }
 
+.embeddedServiceLiveAgentStateChatInputFooter .footerMenuWrapper .footer-menu .slds-button {
+    color: #a4adb7;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

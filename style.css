@@ -147,7 +147,6 @@
 .embeddedServiceLiveAgentStateChatInputFooter.chasitorInputWrapper {
     background-color: #fff;
     box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.02), 0px -4px 16px rgba(11, 161, 194, 0.05);
-    border-radius: 16px 16px 0px 0px;
 }
 
 .embeddedServiceLiveAgentStateChatInputFooter .chasitorControls .uiInput {

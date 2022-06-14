@@ -161,6 +161,11 @@
     color: #a4adb7;
 }
 
+.richText[c-chatMessage_chatMessage] {
+    border: none;
+    color: #586476;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

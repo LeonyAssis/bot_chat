@@ -130,6 +130,10 @@
 
     .embeddedServiceHelpButton .helpButton {
         height: 56px;
+    }
+
+    .embeddedServiceHelpButton .helpButton,
+    .embeddedServiceSidebarMinimizedDefaultUI.helpButton {
         bottom: 42px;
     }
 

@@ -180,6 +180,10 @@
     padding: 3px;
 }
 
+.embeddedServiceLiveAgentStateChatMenuMessage .rich-menu {
+    margin-top: 16px;
+}
+
 @media only screen and (max-height: 530px) {
     .embeddedServiceSidebarForm .fieldList {
         margin-top: 0px;

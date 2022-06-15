@@ -223,6 +223,7 @@
 
     [embeddedService-chatHeader_chatHeader-host] {
         height: 56px;
+        min-height: 56px;
     }
 
     .embeddedServiceSidebarMinimizedDefaultUI .messageContent {

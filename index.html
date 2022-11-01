@@ -12,6 +12,8 @@
 <body>
     
   <h1>Bem-vindo ao bot Cleitin III</h1>
+    <br>
+    <button id="bntchat">Abrir chat</button>
 
 
     <style type='text/css'>
@@ -198,6 +200,18 @@
         } else {
             initESW('https://service.force.com');
         }
+        
+        var bntchat = document.getElementById('bntchat');
+        bntchat.addEventListener('click', function() {
+            console.log('clicouahahha');
+            embedded_svc.liveAgentAPI.startChat({
+                prepopulatedPrechatFields: {
+                    FirstName: 'Tiago',
+                    LastName: 'Borges',
+                    Email: 'i_love_you@salesforce.com',
+                }
+            });
+        });
     </script>  
 </body>
 
